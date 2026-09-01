@@ -16,7 +16,7 @@ source:
 
 publication:
   github: true
-  website: false
+  website: true
   linkedin: false
 
 security:
