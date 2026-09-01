@@ -1,0 +1,32 @@
+schema_version: 1
+
+episode:
+  id: S00E00
+  saga: saga-00-publication-test
+  number: 0
+  title: "Publication Pipeline Test"
+  slug: publication-pipeline-test
+
+status:
+  lifecycle: ready
+  publication: approved
+
+source:
+  article: README.md
+
+publication:
+  github: true
+  website: false
+  linkedin: false
+
+security:
+  review_required: true
+  sanitized: true
+
+content:
+  diagrams: diagrams
+  assets: assets
+  manifests: manifests
+  scripts: scripts
+  evidence: evidence
+  social: social
