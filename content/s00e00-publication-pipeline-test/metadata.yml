@@ -17,7 +17,7 @@ source:
 publication:
   github: true
   website: true
-  linkedin: false
+  linkedin: true
 
 security:
   review_required: true
